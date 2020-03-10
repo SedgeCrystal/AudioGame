@@ -2,10 +2,13 @@
 Androidで動作する自作ゲーム4作目です。
 
 
-# 遊ぶ場合
+## 遊ぶ場合
 apkファイルをダウンロードし、Androidに入れてください
 
-# ソースコードなどを見たい場合
+## ソースファイルを見たい場合
+Scriptsフォルダ内のファイルをご覧ください。
+
+## unity上でゲームオブジェクトの配置などを見たい場合
 unitypackageをダウンロードし、unityからインポートしてください。ただし、本ゲームではunityのXRのpluginを用いているため Project SettingのXR Plugin ManagementからXR関連のものをダウンロードしていただく必要があります。　　
 また、このunitypackageには効果音ラボからダウンロードしたmp3ファイルが含まれていません。そのため、効果音ラボから  
 1.ショット（戦闘［２］）をダウンロードし、Player(GameSceneのGameObject)のAudioSourceのAudioClipに  
@@ -23,7 +26,7 @@ unitypackageをダウンロードし、unityからインポートしてくださ
 ただし、unity上ではジャイロを動かすことができないため、ゲームを正常に遊ぶことができません。そのためapkファイルへビルドしたのち、Androidで本ゲームを遊ぶことをお勧めいたします。
 
 
-# 開発期間などが知りたい場合
+## 開発期間などが知りたい場合
 summary.pdfをご覧ください。
 
 
